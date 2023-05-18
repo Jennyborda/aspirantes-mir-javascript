@@ -1,11 +1,11 @@
 function calcularColor(num) {
   var color;
   if (num === 1) {
-    color = "black";
+    color = "negro";
   } else if(num === 2) {
     color = "blanco";
   } else if (num === 3) {
-    color = "rojo";
+    color = "azul";
   } else {
     color = "verde";
   }
